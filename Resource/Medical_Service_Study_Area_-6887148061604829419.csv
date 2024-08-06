@@ -1,0 +1,63 @@
+﻿,Avg,Min,Max,STDev,STDevP,VAR.S,VAR.P
+Population Density,3249.6,0.5,31287.3,4688.3,4684.0,21980569.2,21939939.6
+Area (square miles),293.9,4.8,7991.1,643.6,643.0,414227.2,413460.1
+Total Population,67719.4,744.0,186178.0,46635.9,46592.6,2174904879.0,2170869805.0
+Civilian (Non-group quarter) Population,66307.8,744.0,182301.0,45955.8,45913.1,2111937995.7,2108012460.3
+Population in Poverty,9132.7,55.0,49012.0,8620.6,8612.6,74315361.0,74176971.1
+Percent in Poverty,14.2,3.0,50.0,7.8,7.8,60.2,60.1
+Population Below 200% Poverty,21941.4,172.0,100503.0,19218.5,19200.5,369350900.5,368660525.0
+Percent Below 200% Poverty,34.0,6.6,86.3,15.0,15.0,225.0,224.6
+Primary Care Shortage Area (PCSA) Flag,0.5,0.0,1.0,0.5,0.5,0.2,0.2
+PCSA Weighted Score,3.7,0.0,10.0,3.6,3.6,12.9,12.8
+Civilian Population PCSA Flag,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Civilian Pop PCSA Weighted Score,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Primary Care Physician Count,60.7,0.0,849.0,92.3,92.2,8518.9,8502.8
+Pop to Primary Care Physician Ratio,2732.3,0.0,37235.0,3840.1,3836.4,14746031.1,14718103.0
+Civilian Pop to Primary Care Physician Ratio,2667.6,0.0,35340.0,3784.4,3780.8,14321908.6,14294732.3
+Dentist Count,45.0,0.0,398.0,49.0,49.0,2403.6,2399.0
+Pop to Dentist Ratio,2926.6,0.0,43079.0,4155.2,4151.2,17265519.1,17232632.4
+Civilian Pop to Dentist Ratio,2819.3,0.0,42866.0,4005.1,4001.3,16040820.1,16010207.9
+Psychiatrist Count,12.0,0.0,391.0,29.4,29.4,867.0,865.3
+Pop to Psychiatrist Ratio,13837.4,0.0,176224.0,23116.4,23094.2,534366695.6,533343004.6
+Civilian Pop to Psychiatrist Ratio,13619.7,0.0,175823.0,22871.2,22849.3,523093642.8,522089624.3
+Hispanic Ethnicity Population,25316.9,16.0,111563.0,25952.8,25927.8,673545662.6,672250382.5
+Percent Hispanic Ethnicity Pop,33.2,1.5,99.0,22.9,22.9,525.5,524.5
+White Population,44060.1,687.0,153319.0,30631.7,30602.1,938298604.8,936487217.5
+Percent White Pop,70.3,18.4,99.0,18.0,17.9,322.3,321.7
+"White, Not Hispanic or Latino, Population",27991.1,66.0,119220.0,24384.4,24360.7,594598169.7,593445847.7
+"Percent White, Not Hispanic or Latino, Pop",48.4,0.7,93.3,25.2,25.2,634.7,633.5
+Black Population,4955.7,0.0,45993.0,7345.5,7338.4,53956649.2,53851675.2
+Percent Black Pop,5.7,0.0,58.4,7.2,7.2,51.5,51.4
+"Black, Not Hispanic or Latino, Population",4168.8,0.0,43722.0,6741.5,6734.9,45447539.9,45358775.1
+"Percent Black, Not Hispanic or Latino, Pop",4.8,0.0,55.5,6.7,6.7,45.3,45.2
+Asian Population,9950.0,0.0,69005.0,13166.9,13154.0,173366469.9,173026535.6
+Percent Asian Pop,10.7,0.0,58.0,11.9,11.9,141.3,141.1
+"Asian, Not Hispanic or Latino, Population",8795.8,0.0,65865.0,12421.2,12409.0,154286493.6,153982780.0
+"Percent Asian, Not Hispanic or Latino, Pop",9.4,0.0,55.5,11.4,11.4,129.5,129.2
+American Indian-Eskimo Population,1179.1,0.0,5155.0,923.4,922.5,852637.8,850952.8
+PCT_AMIND_ESK,2.8,0.0,53.5,4.4,4.4,19.6,19.6
+"American Indian-Eskimo, Not Hispanic or Latino, Population",287.9,0.0,2854.0,306.1,305.8,93682.6,93496.8
+"Percent American Indian-Eskimo, Not Hispanic or Latino, Pop",1.2,0.0,49.8,3.7,3.7,14.0,14.0
+Pacific Islander Population,437.8,0.0,4078.0,557.5,556.9,310777.1,310158.0
+Percent Pacific Islander Pop,0.6,0.0,4.3,0.6,0.6,0.4,0.4
+"Pacific Islander, Not Hispanic or Latino, Population",244.7,0.0,3187.0,406.9,406.5,165568.8,165237.7
+"Percent Pacific Islander, Not Hispanic or Latino, Pop",0.3,0.0,4.0,0.5,0.5,0.2,0.2
+Other Race Population,10810.3,0.0,64783.0,12556.8,12544.2,157673718.7,157357104.8
+Percent Other Race Pop,13.7,0.0,48.5,10.9,10.9,119.1,118.9
+"Other Race, Not Hispanic or Latino, Population",199.9,0.0,1865.0,235.9,235.7,55667.7,55555.5
+"Percent Other Race, Not Hispanic or Latino, Pop",0.2,0.0,3.7,0.3,0.3,0.1,0.1
+Multi Racial Population,2579.3,6.0,10748.0,2102.9,2100.7,4422012.3,4413060.8
+Percent Multi Racial Pop,3.8,0.3,13.5,1.6,1.6,2.6,2.6
+"Multi Racial, Not Hispanic or Latino, Population",1545.7,0.0,7574.0,1386.9,1385.5,1923430.8,1919521.4
+"Percent Multi Racial, Not Hispanic or Latino, Pop",2.4,0.0,11.0,1.4,1.4,1.8,1.8
+Population Age 65 and Over,7393.2,35.0,27758.0,5435.5,5430.0,29544799.1,29484503.6
+Percent Pop Age 65 and Over,12.2,0.3,34.4,4.9,4.9,23.8,23.8
+Population Age 18 to 64,42546.9,489.0,117078.0,29812.2,29781.6,888766275.4,886945033.0
+Percent Pop Age 18 to 64,63.1,49.2,90.1,5.2,5.2,27.3,27.2
+Population Under Age 18,17120.4,127.0,58138.0,13071.0,13057.6,170851561.3,170500014.9
+Percent Pop Under Age 18,24.7,4.1,43.0,6.1,6.1,37.3,37.3
+Population Under Age 5,4693.0,3.0,15662.0,3605.5,3601.8,12999621.4,12972762.7
+Percent Pop Under Age 5,6.7,0.4,15.6,2.1,2.1,4.3,4.3
+Youth Ratio,0.4,0.0,0.8,0.1,0.1,0.0,0.0
+Elderly Ratio,0.2,0.0,0.6,0.1,0.1,0.0,0.0
+Total Poverty Population,66206.1,744.0,183019.0,45762.8,45715.1,2094229655.0,2089866676.5
